@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: rgb(3, 3, 3);
+    color: palevioletred;
+    text-align: center;
+    font-size: large;
+    font-family: segoe-print;
+}
+
+@font-face {
+    font-family: cinzel;
+    src: url("cinzel-font.ttf") format('truetype');
+    font-weight: regular;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: segoe-print;
+    src: url("segoe-print.ttf") format('truetype');
+    font-weight: regular;
+    font-style: normal;
+}
